@@ -1,0 +1,20 @@
+Data Preprocessing:
+1-Import data to Jupyter notebook.
+2-Seen the basic structure and Statistics for all columns for both categorical and integer.
+3-Do some exploratory data analysis(EDA) and Visualization. univariate distribution, bivarirate distribution.
+4-Find insight from data by grouping and aggregation, crosstab, pivot table, etc.
+5-And after that working with mission values(Data mungling)
+6-Add some new neccessary feature to data set to find more insight from data such as-Embarked, Fare, Age.
+7-Replaced all missing values with most appropriate method with visualization.
+8-Then Working with outliers age attribute, Fare attributes.
+9-Finaly did feature engineering on data set such as- Label encoding, One-hot encoding, make dummy variables.
+10-Remove extra and uneccesary columns to the dataframe and save the processed dataframe to csv file.
+
+
+Model Training
+1-Train model with several algorithms after that. 
+2-The most fitted model is LinearDescriminentAnalysis which gives 83.5% accuracy.
+3-Also campare all models.
+4-Predict values from test dataframe
+5-Get the infomation about candidates who probably were survived.
+6-Finaly save the model for further modification and use purpose.
